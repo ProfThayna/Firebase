@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyC4znTGfxJSbvD16fNaMjNcyZUxkdaKETk",
+  authDomain: "jogo-de-carros-372ce.firebaseapp.com",
+  databaseURL: "https://jogo-de-carros-372ce-default-rtdb.firebaseio.com",
+  projectId: "jogo-de-carros-372ce",
+  storageBucket: "jogo-de-carros-372ce.appspot.com",
+  messagingSenderId: "588978477937",
+  appId: "1:588978477937:web:879165efac72ef266db4d0"
+};
